@@ -482,4 +482,7 @@
     <string-array name="config_highRefreshRateBlacklist">
         <item>"com.netflix.mediaclient"</item>
     </string-array>
+
+    <!-- Whether device supports an gaming mode profiles -->
+    <bool name="config_gamingmode_performance">true</bool>
 </resources>
